@@ -1,9 +1,10 @@
-# MLclustering
-Este projeto tem por objetivo desenvolver um algoritmo de Machine Learning para agrupar clientes do shopping utilizando Aprendizado Não supervionado.
-Os dados foram extraídos do site do Kaggle: 
+# Segmentação de clientes
+Este projeto tem por objetivo desenvolver um modelo de Machine Learning não supervisionado para agrupar clientes que frequentam um shopping em grupos com características parecidas, facilitando a crianção de campanhas de marketing para grupos de consumidores específicos.
+
+O dataframe usado foi retirado do Kaggle:
 https://www.kaggle.com/shwetabh123/mall-customers
 
-O Dataframe é constituído pelos atributos:
+O dataframe é constituído pelos atributos:
 CustomerID: identificação do cliente.
 Genre: Gênero.
 Age: Idade.
