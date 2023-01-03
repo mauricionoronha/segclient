@@ -96,7 +96,7 @@ O K-Prototypes é um irmão menos conhecido, mas oferece uma vantagem de design 
 
 Neste modelo não foi usado o PCA e os dados categóricos não precisaram de tratamento.
 
-# 10º - E finalmente foi criado um arquivo CSV com cara algoritmo. 
+# 10º - E finalmente foi criado um arquivo CSV com cada algoritmo. 
 Alguns modelos apresentaram melhores resultados como o K_means escalonado, DBSCAN com todos os atributos e o K-Prototypes usando dados numéricos e categóricos.
 
 Segue a lista dos arquivos criados:
